@@ -1,0 +1,12 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "Швея" as P {
+ Станок
+Плюшевый медведь, ткать плюшевых медведей(Ткань, Пластик, Плюш, Вата)
+}
+hide circle
+@enduml
