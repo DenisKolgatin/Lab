@@ -3,12 +3,20 @@
 
 ## Лабораторная 1
 
-Текст с постановкой задачи
+Создание IDEF0-диаграммы "Пошив плюшевых медведей" в RAMUS
 
 Рисунок прямо здесь (выгруженный из РАМУС, выгруженный или созданный "на лету" в PLANTUML)
-![none](https://github.com/okoff/okoff.github.io/blob/master/oop/lab1/image.png)
+![none](https://github.com/DenisKolgatin/Lab/blob/master/l1.png)
 
-Ссылки на доп.материалы
+Ссылки на доп.материалы https://github.com/DenisKolgatin/Lab/blob/master/sixq%20(1).rsf
+
+Создание диаграммы классов и диаграммы прецедентов "Пошив плюшевых медведей"
+в PLANTUML (программное средство автоматической генерации UML-диаграмм)
+![Тескт](https://github.com/DenisKolgatin/Lab/blob/master/%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BB%D1%8F%20Plant)
+Рисунок:
+![Рисунок](https://github.com/DenisKolgatin/Lab/blob/master/LP0nIWD158Rhl5CyKYbuY1WlO6Szx0vcoMH7tcoma1G61C6Wu0L4AyjbCM1MerVuturympQncE6Vd-__YfcanacpN0HAywg-Sk8MN0IN4j_GQEgA-QN4PLsUnH25BsPLusbqAXAlXsOQ334mIkdbi5hHO1dZ7Hss-ZHcb_ZSh8nNNQF57Z_e2I_uqaUznnQTFc37-BRuWIxVkZbXOtkqkjOD.png)
+
+
 
 ## Лабораторная 2
 
