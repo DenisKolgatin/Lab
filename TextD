@@ -1,0 +1,21 @@
+@startuml
+actor "Менеджер" as p
+participant "Недельный план" as q
+participant "Задание для исполнителя" as m
+participant "Стандарты оформления документов" as d
+database "БД заказов" as t
+actor "Автоматизированная система" as cd
+
+p -> q : Составление плана
+q -> p 
+d -> m : Проверка на соответствие
+q -> t : Сбор данных
+t -> q
+m -> p : Выдача задания исполнителю
+p -> m 
+activate cd
+d -> cd : Проверка оформления
+t -> cd : Добавление заказов
+cd -> t
+deactivate cd
+@enduml
